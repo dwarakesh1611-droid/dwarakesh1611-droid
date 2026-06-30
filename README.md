@@ -162,6 +162,11 @@ Collection of Classification, Regression and Unsupervised Learning algorithms bu
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dwarakesh1611-droid&theme=tokyo-night&hide_border=true"/>
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dwarakesh1611-droid/dwarakesh1611-droid/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 
 
